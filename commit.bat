@@ -8,6 +8,6 @@
 git init
 git add -A
 git commit -m "First commit"
-git remote add origin "https://github.com/M-ram-kumar/Test_folder"
+git remote add origin "https://github.com/M-ram-kumar/Test2"
 git push -u origin --all
 
